@@ -56,7 +56,7 @@ body {
 
 #text_container {
     width: 75%;
-    background-color: #DDDDDD;
+    background-color: #ececec;
     margin: 0 auto;
     padding: 1em;
 }
@@ -126,11 +126,12 @@ p {
     font-size: 1.08em;
     font-family: sans-serif;
     font-weight: 500;
+    line-height: 20px;
 }
 
 #footer {
     margin: 1em;
-    background-color: #D3D3D3;
+    background-color: #ececec;
     width: 96%;
     margin-left: 2%;
     margin-right: 2%;
@@ -162,8 +163,8 @@ p {
     font-family: sans-serif;
     color: #851515;
     font-weight: 600;
-    background-color: #D3D3D3;
-    padding: 0.5em;
+    background-color: #ececec;
+    padding: 0.3em;
     border-radius: 100px;
     margin-bottom: 8px;
 }
@@ -171,4 +172,11 @@ p {
 a:hover {
     color: red;
     text-decoration: underline;
+    background-color: #dad7d7;
+    padding-top: 0.1em;
+    padding-bottom: 0.2em;
+    padding-right: 13em;
+    padding-left: 13em;
+    border-radius: 100px;
+    cursor: pointer;
 }
