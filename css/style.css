@@ -1,0 +1,28 @@
+.body {
+    background-color: #D3D3D3;
+}
+
+#container {
+    width: 850px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    border-color: black;
+    border: 2px solid;
+}
+
+#img1 {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#trait_horizontal {
+    padding: 0px;
+    margin: 0px;
+    margin-left: 3%;
+    margin-right: 3%;
+    border: none;
+    width: 94%;
+    height: 2px;
+    background-color: #8B0000;
+}
