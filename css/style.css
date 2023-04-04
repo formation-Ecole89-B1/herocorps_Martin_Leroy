@@ -1,5 +1,5 @@
-.body {
-    background-color: #D3D3D3;
+body {
+    background-color: #DDDDDD;
 }
 
 #container {
@@ -23,6 +23,119 @@
     margin-right: 3%;
     border: none;
     width: 94%;
-    height: 2px;
+    height: 2.5px;
     background-color: #8B0000;
+}
+
+#title_container {
+    display: block;
+    text-align: center;
+}
+
+#title1 {
+    display: inline-block;
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: 3.5rem;
+}
+
+#subtitle1 {
+    display: inline-block;
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: larger;
+    background-color: black;
+    color: white;
+    padding: 1em;
+    padding-bottom: 0.5em;
+    padding-top: 0.5em;
+    margin-left: 20px;
+}
+
+#text_container {
+    width: 75%;
+    background-color: #DDDDDD;
+    margin: 0 auto;
+    padding: 1em;
+}
+
+#subtitle2 {
+    margin-top: 0.5em;
+    text-align: center;
+    font-size: xx-large;
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+
+#img2 {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 1.5em;
+    margin-bottom: 1.2em; 
+    width: 8em;
+    height: 5.5em;   
+}
+
+strong {
+    font-weight: bolder;
+}
+
+h4 {
+    font-family: sans-serif;
+    float: left;
+    font-size: 1.09em;
+    line-height: 1.2em;
+}
+
+#trait_horizontal2 {
+    padding: 0px;
+    margin: 0px;
+    margin-left: 1%;
+    margin-right: 1%;
+    border: none;
+    width: 98%;
+    height: 2px;
+    background-color: black;
+}
+
+h6 {
+    margin-top: 2px;
+    margin-bottom: 2px;
+    text-align: center;
+    font-size: 0.85em;
+    line-height: 17px;
+    font-family: sans-serif;
+    font-style: italic;
+
+}
+
+h2 {
+    text-align: center;
+    font-size: 1.5em;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #8B0000;
+    margin: 2px;
+    margin-bottom: 9px;
+}
+
+p {
+    font-size: 1.08em;
+    font-family: sans-serif;
+    font-weight: 500;
+}
+
+#footer {
+    margin: 1em;
+    background-color: #D3D3D3;
+    width: 96%;
+    margin-left: 2%;
+    margin-right: 2%;
+    height: 8em;
+}
+
+#credits {
+    margin
+    text-align: center;
 }
