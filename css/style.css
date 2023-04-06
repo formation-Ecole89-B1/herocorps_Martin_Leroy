@@ -129,16 +129,13 @@ p {
     line-height: 20px;
 }
 
-#footer {
+.footer {
     margin: 1em;
     background-color: #ececec;
     width: 96%;
     margin-left: 2%;
     margin-right: 2%;
     height: 8em;
-}
-
-#footer p {
     margin-top: 0;
     text-align: center;
 }
